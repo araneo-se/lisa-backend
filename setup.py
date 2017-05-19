@@ -7,6 +7,7 @@ import sys
 
 import backend
 
+# Find where we are...
 here = os.path.abspath(os.path.dirname(__file__))
 
 def read(*filenames, **kwargs):

@@ -1,0 +1,16 @@
+# Eclipse
+.project
+.pydevproject
+.settings/
+
+# pyc and such
+*.py[cod]
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# Other stuff
+*.swp
+
